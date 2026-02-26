@@ -1,4 +1,4 @@
-# Subgraph Encoding with Bicentric Sphere Node Labelingand Pooling for Link Prediction
+# Subgraph Encoding with Bicentric Sphere Node Labeling and Pooling for Link Prediction
 
 ## Requirements
 - Python 3.7
