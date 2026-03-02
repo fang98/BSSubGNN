@@ -4,8 +4,8 @@
 - Python 3.7
 - PyTorch 1.8.1
 - CUDA 11.1
--dgl 0.9.1
--torch_geometric 2.0.2
+- dgl 0.9.1
+- torch_geometric 2.0.2
 
 
 ## Plain Networks
