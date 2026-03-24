@@ -106,3 +106,22 @@ python main.py --dataset=BitcoinAlpha --seed=1
 ``` 
 
 
+Reference
+---------
+
+If you find the code useful, please cite our paper:
+
+```
+@article{Fang_Tan_Fang_LI_Gao_2026,
+  title={Subgraph Encoding with Bicentric Sphere Node Labeling and Pooling for Link Prediction},
+  author={Fang, Zhihong and Tan, Shaolin and Fang, Qiu and LI, Zhe and Gao, Qing},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={17},
+  pages={3822-3831},
+  year={2026},
+  pages={14711-14719}
+}
+```
+
+Thanks!
